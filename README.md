@@ -50,7 +50,7 @@ Os arquivos SQL estão organizados por **ordem lógica de execução**, facilita
 
 ---
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
