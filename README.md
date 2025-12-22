@@ -234,6 +234,11 @@ This project was developed using the following technologies:
 
 #### 1️⃣ Start MySQL using pure Docker
 
+⚠️ **Note about the password**
+In this project, the password was set directly in the command for **study and learning** purposes only.
+
+In real production environments, it is best not to version passwords, using external environment variables `.env`, secrets, or secure management tools.
+
 ```bash
 $ docker run -e MYSQL_ROOT_PASSWORD=senha \
   --name mysql-A \
