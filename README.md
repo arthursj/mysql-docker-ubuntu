@@ -348,4 +348,4 @@ This repository represents the learning process in **databases and containers**,
 ---
 
 Developed by ⚙️ **Arthur Silva**
-[GitHub](https://github.com/arthursj) ⚙️ **Arthur Silva**
+[GitHub](https://github.com/arthursj) ⚙️
