@@ -1,6 +1,9 @@
 -- Creating a database
 CREATE DATABASE testDB;
 
+-- View created database
+SHOW DATABASES;
+
 -- or
 
 -- Creating a database only if it doesn't already exist with that name.
